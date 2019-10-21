@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Shooky</string>
+    <string name="my_pic">My Profile Picture</string>
+    <string name="my_profile_description">
+        DOB      : N/A \n \n
+        Address  : BT21 Base Camp \n \n
+        Hobbies  : Playing \n \n
+        Dislikes : Milk \n \n
+        Friends  : Koya \n
+                   RJ \n
+                   Mang \n
+                   Chimmy \n
+                   Tata \n
+                   Cooky \n
+                   Van \n
+    </string>
+</resources>
