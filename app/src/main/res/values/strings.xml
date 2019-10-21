@@ -2,6 +2,8 @@
     <string name="app_name">AboutMe</string>
     <string name="my_name">Shooky</string>
     <string name="my_pic">My Profile Picture</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
     <string name="my_profile_description">
         DOB      : N/A \n \n
         Address  : BT21 Base Camp \n \n

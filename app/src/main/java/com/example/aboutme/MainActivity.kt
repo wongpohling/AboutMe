@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun updateNickname(){
-        
+
     }
 
     private fun addNickname(view: View) {
